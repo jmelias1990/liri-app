@@ -8,25 +8,25 @@ run command
 
 node liri.js concert-this "band/artisit name"
 
-(Screenshots/concert-this.jpg)
+![alt text](https://github.com/jmelias1990/liri-app/blob/master/Screenshots/concert-this.JPG)
 
 run command
 
 node liri.js spotify-this-song "name of song"
 
-(Screenshots/spotify-this-song.jpg)
+![alt text](https://github.com/jmelias1990/liri-app/blob/master/Screenshots/spotify-this-song.JPG)
 
 run command
 
 node liri.js movie-this "name of movie"
 
-(Screenshots/movie-this.jpg)
+![alt text](https://github.com/jmelias1990/liri-app/blob/master/Screenshots/movie-this.JPG)
 
 run command
 
 node liri.js do-what-it-says
 
-(Screenshots/do-what-it-says.jpg)
+![alt text](https://github.com/jmelias1990/liri-app/blob/master/Screenshots/do-what-it-says.JPG)
 
 TECHNOLOGIES USED
 Javascript
