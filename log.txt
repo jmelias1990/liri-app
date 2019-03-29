@@ -1,0 +1,502 @@
+**********SONG INFO*********
+0
+song name: Switchblade
+preview song: https://p.scdn.co/mp3-preview/e640f572511a5d114160b11a510ed4405e774af1?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Dear Me,
+artist(s): Borgeous
+*****************************
+**********SONG INFO*********
+1
+song name: Switchblade
+preview song: https://p.scdn.co/mp3-preview/2d68e645a0325f7a5882fdddfa640c98d555efe5?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Cat Heaven
+artist(s): Roy Blair
+*****************************
+**********SONG INFO*********
+2
+song name: Switchblade
+preview song: https://p.scdn.co/mp3-preview/0898910951ef948b069923e250b9548eadab11d0?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Lost on You
+artist(s): LP
+*****************************
+**********SONG INFO*********
+3
+song name: Switchblade
+preview song: https://p.scdn.co/mp3-preview/a620d88c9fc5a177771f12ecd8025987b061fd45?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Viking
+artist(s): Lars Frederiksen and the Bastards
+*****************************
+**********SONG INFO*********
+4
+song name: Switchblade
+preview song: null
+album: Sparkle Sparkle
+artist(s): Holy White Hounds
+*****************************
+**********SONG INFO*********
+5
+song name: Switchblade !
+preview song: https://p.scdn.co/mp3-preview/35242289c13589ec922c20f961637ab31399155e?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Switchblade !
+artist(s): Dxddy Mxck
+*****************************
+**********SONG INFO*********
+6
+song name: Switchblade
+preview song: https://p.scdn.co/mp3-preview/6e7f2f46af1165cf1f2ebac7366d430d7d13fb7b?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: If Not Now, When?
+artist(s): Incubus
+*****************************
+**********SONG INFO*********
+7
+song name: Kitten with a Switchblade
+preview song: https://p.scdn.co/mp3-preview/7d4b5c939850c2ab0743316cd81e54ef509fb4bb?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Kitten's Scissor Party
+artist(s): Burning Aries
+*****************************
+**********SONG INFO*********
+8
+song name: Since Yesterday
+preview song: https://p.scdn.co/mp3-preview/d0bfd80ba06e2236d7e1f2d7f75f56992bcac201?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Strawberry Switchblade
+artist(s): Strawberry Switchblade
+*****************************
+**********SONG INFO*********
+9
+song name: Switchblade
+preview song: https://p.scdn.co/mp3-preview/1704aa601624a02f97858a313e5d6ef33dd18edb?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: The Scotch Tape
+artist(s): Timeflies
+*****************************
+**********SONG INFO*********
+10
+song name: Switchblade
+preview song: https://p.scdn.co/mp3-preview/0c4c3f5e8c370bb734b6bb538ab067fe86cb7ea7?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Changing States
+artist(s): Meet Me @ The Altar
+*****************************
+**********SONG INFO*********
+11
+song name: Go Away
+preview song: https://p.scdn.co/mp3-preview/1bb9c4e723409a80a7a50996e2ee8e77a91aacf7?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Strawberry Switchblade
+artist(s): Strawberry Switchblade
+*****************************
+**********SONG INFO*********
+12
+song name: Trees and Flowers
+preview song: https://p.scdn.co/mp3-preview/63d1a54c1975a82d8eae0311993cdaf2e573b6f7?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: 1982 4 Piece Demo
+artist(s): Strawberry Switchblade
+*****************************
+**********SONG INFO*********
+13
+song name: Bonus Track - Switchblade
+preview song: https://p.scdn.co/mp3-preview/08ad8651964bded64bb39075dbdcf8006d1aec72?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Original Motion Picture Soundtrack
+artist(s): Pilotpriest
+*****************************
+**********SONG INFO*********
+14
+song name: Switchblade
+preview song: https://p.scdn.co/mp3-preview/3a3fee198fa50d5933fb431251d27d66db0e4512?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Bullshot
+artist(s): Link Wray
+*****************************
+**********SONG INFO*********
+15
+song name: Switchblade
+preview song: https://p.scdn.co/mp3-preview/6c6ac16d1f20a0ed349be25d464cc88c432f509d?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Switchblade
+artist(s): Tzetze
+*****************************
+**********SONG INFO*********
+16
+song name: Switchblade
+preview song: https://p.scdn.co/mp3-preview/19677435c485568ee869803ab4b009c4cbb322d5?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Americano
+artist(s): Roger Clyne & The Peacemakers
+*****************************
+**********SONG INFO*********
+17
+song name: Switchblade Smiles
+preview song: https://p.scdn.co/mp3-preview/a27e9e28b2e9631a76671559f042ebd6f88aa705?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Velociraptor!
+artist(s): Kasabian
+*****************************
+**********SONG INFO*********
+18
+song name: Salute To A Switchblade - Single Version
+preview song: null
+album: The Definitive Collection
+artist(s): Tom T. Hall
+*****************************
+**********SONG INFO*********
+19
+song name: Switchblade
+preview song: https://p.scdn.co/mp3-preview/d903c709d33ee78e1aad3448de0ae746bee38b9d?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: The Disappearance of the Girl
+artist(s): Phildel
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+4
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+5
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Ballads in Bossa (The Colors of Love Ballads)
+artist(s): Marcelo Rezende
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+15
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=01cae6b9ac9d4ca8a61894b3ba331d23
+album: #90s Update
+artist(s): #90s Update
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Sala Riviera
+Venue Location: Madrid
+Date of the Event: 2019-04-18T21:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Sala Razzmatazz
+Venue Location: Barcelona
+Date of the Event: 2019-04-19T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Halle 622
+Venue Location: Zürich
+Date of the Event: 2019-04-21T20:01:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Alcatraz
+Venue Location: Milano
+Date of the Event: 2019-04-22T20:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Wiener Stadthalle Halle D
+Venue Location: Wien
+Date of the Event: 2019-04-24T19:30:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Zenith, die Kulturhalle
+Venue Location: Grafing Bei Munchen
+Date of the Event: 2019-04-25T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Rockhal
+Venue Location: Esch-sur-alzette
+Date of the Event: 2019-04-27T19:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Sporthalle Hamburg
+Venue Location: Hamburg
+Date of the Event: 2019-04-28T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Annexet
+Venue Location: Stockholm
+Date of the Event: 2019-04-30T19:30:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Sentrum Scene
+Venue Location: Oslo
+Date of the Event: 2019-05-01T19:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: K.B. Hallen
+Venue Location: Copenhagen
+Date of the Event: 2019-05-03T20:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Verti Music Hall
+Venue Location: Berlin-altglienicke
+Date of the Event: 2019-05-04T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Palladium
+Venue Location: Köln
+Date of the Event: 2019-05-06T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: AFAS Live
+Venue Location: Amsterdam
+Date of the Event: 2019-05-07T20:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Élysée Montmartre
+Venue Location: Paris
+Date of the Event: 2019-05-09T20:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Alexandra Palace
+Venue Location: London
+Date of the Event: 2019-05-11T18:30:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: O2 Academy Glasgow
+Venue Location: Glasgow
+Date of the Event: 2019-05-13T19:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: O2 Apollo Manchester
+Venue Location: Manchester
+Date of the Event: 2019-05-14T19:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: O2 Apollo
+Venue Location: Manchester
+Date of the Event: 2019-05-15T19:00:11
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: Sonic Temple Art & Music Festival
+Venue Location: Columbus
+Date of the Event: 2019-05-18T19:00:47
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Rocklahoma [5.24 - 5.26]
+Venue Location: Pryor
+Date of the Event: 2019-05-26T19:00:59
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Sweden Rock Festival [6.05 - 6.08]
+Venue Location: Solvesborg
+Date of the Event: 2019-06-07T19:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Rockfest
+Venue Location: Hyvinkää
+Date of the Event: 2019-06-08T19:00:47
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Saku Suurhall
+Venue Location: Tallinn
+Date of the Event: 2019-06-10T19:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Yubileynyy
+Venue Location: Спб
+Date of the Event: 2019-06-12T19:00:39
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: Tele-Club
+Venue Location: Yekaterinburg
+Date of the Event: 2019-06-14T19:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: VTB Arena
+Venue Location: Moscow
+Date of the Event: 2019-06-16T19:00:49
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: Stereo Plaza
+Venue Location: Kiev
+Date of the Event: 2019-06-18T19:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: COS Torwar Event Hall
+Venue Location: Warszawa
+Date of the Event: 2019-06-20T19:00:13
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Graspop Metal Meeting [June 21-23]
+Venue Location: Dessel
+Date of the Event: 2019-06-22T19:00:29
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Malá sportovní hala
+Venue Location: Praha
+Date of the Event: 2019-06-24T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: Budapest Park
+Venue Location: Budapest
+Date of the Event: 2019-06-25T19:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: Arenele Romane
+Venue Location: Bucharest
+Date of the Event: 2019-06-27T19:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Hills of Rock
+Venue Location: Plovdiv
+Date of the Event: 2019-06-28T19:00:00
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Faliro Arena
+Venue Location: Palaio Faliro
+Date of the Event: 2019-06-30T19:00:18
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Live Park Rishon Lezion
+Venue Location: Mikveh Israel
+Date of the Event: 2019-07-02T19:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: Rock USA [7.18 - 7.20]
+Venue Location: Oshkosh
+Date of the Event: 2019-07-20T19:00:03
+*****************************
