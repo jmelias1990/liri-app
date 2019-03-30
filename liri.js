@@ -1,20 +1,20 @@
-// Read and set environment variables
+
 require("dotenv").config();
 
-//VARS
+
 var request = require("request");
 var fs = require("fs");
 var keys = require("./keys.js");
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
-//vars to capture user inputs.
+
 var userOption = process.argv[2]; 
 var inputParameter = process.argv[3];
 
-//Execute function
+
 UserInputs(userOption, inputParameter);
 
-//FUNCTIONS
+
 function UserInputs (userOption, inputParameter){
     switch (userOption) {
     case 'concert-this':
@@ -34,11 +34,11 @@ function UserInputs (userOption, inputParameter){
     }
 }
 
-//Funtion for Concert Info: Bands in Town
+
 function showConcertInfo(inputParameter){
     var queryUrl = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
     request(queryUrl, function(error, response, body) {
-    // If the request is successful
+ 
     if (!error && response.statusCode === 200) {
         var concerts = JSON.parse(body);
         for (var i = 0; i < concerts.length; i++) {  
@@ -60,10 +60,10 @@ function showConcertInfo(inputParameter){
     }
 });}
 
-//Funtion for Music Info: Spotify
+
 function showSongInfo(inputParameter) {
     if (inputParameter === undefined) {
-        inputParameter = "The Sign"; //default Song
+        inputParameter = "The Sign"; 
     }
     spotify.search(
         {
@@ -97,7 +97,7 @@ function showSongInfo(inputParameter) {
     );
 };
 
-//Funtion for Movie Info: OMDB
+
 function showMovieInfo(inputParameter){
     if (inputParameter === undefined) {
         inputParameter = "Mr. Nobody"
@@ -110,7 +110,7 @@ function showMovieInfo(inputParameter){
     }
     var queryUrl = "http://www.omdbapi.com/?t=" + inputParameter + "&y=&plot=short&apikey=b3c0b435";
     request(queryUrl, function(error, response, body) {
-    // If the request is successful
+
     if (!error && response.statusCode === 200) {
         var movies = JSON.parse(body);
         console.log("**********MOVIE INFO*********");  
@@ -139,7 +139,7 @@ function showMovieInfo(inputParameter){
 
 });}
 
-//function to get proper Rotten Tomatoes Rating
+
 function getRottenTomatoesRatingObject (data) {
     return data.Ratings.find(function (item) {
        return item.Source === "Rotten Tomatoes";
@@ -150,7 +150,7 @@ function getRottenTomatoesRatingObject (data) {
     return getRottenTomatoesRatingObject(data).Value;
   }
 
-//function for reading out of random.txt file  
+ 
 function showSomeInfo(){
 	fs.readFile('random.txt', 'utf8', function(err, data){
 		if (err){ 
